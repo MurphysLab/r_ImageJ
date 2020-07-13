@@ -3,7 +3,7 @@
 
 ### mask_autocrop_macro.ijm
 
-Designed to take photo & mask image pairs. Use the mask as a reference to crop the image. Created in response to [a thread on the ImageJ subreddit](https://www.reddit.com/r/ImageJ/comments/hpffhn/automate_image_processing_for_research_project/). Please include attribution if you re-use or adapt the code. 
+Designed to take photo & mask image pairs. Use the mask as a reference to crop the image. Created in response to [a thread on the ImageJ subreddit](https://www.reddit.com/r/ImageJ/comments/hpffhn/automate_image_processing_for_research_project/). Please include attribution if you re-use or adapt the code. This macro is made available under the [MIT License](https://github.com/MurphysLab/r_ImageJ/blob/master/cropping/MIT_License.md). 
 
 Example to show what kind of images the code uses and what the output is:
 
